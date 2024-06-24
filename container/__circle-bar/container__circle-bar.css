@@ -1,0 +1,10 @@
+.container__circle-bar {
+  position: absolute;
+  top: -2px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 4px;
+  height: 2px;
+  background-color: #FFFFFF;
+  border-radius: 1px;
+}

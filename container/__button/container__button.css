@@ -1,0 +1,16 @@
+.container__button {
+  position: absolute;
+  top: 26px;
+  left: 555px;
+  width: 170px;
+  height: 40px;
+  background-color: #F4F8FF;
+  border: none;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #4777ED;
+  cursor: pointer;
+  padding: 10px 32px;
+  white-space: nowrap;
+}

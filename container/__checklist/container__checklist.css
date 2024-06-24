@@ -1,0 +1,15 @@
+.container__checklist {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 76px;
+  height: 18px;
+  background-color: #2364DB;
+  border-radius: 20px;
+  margin-bottom: 4px;
+  padding: 0 10px;
+  margin-left: -5px; 
+  margin-top: -5px; 
+  color: #ffffff;
+}

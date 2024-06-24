@@ -1,0 +1,20 @@
+@import url('./__circle/container__circle.css');
+@import url('./__circle-text/container__circle-text.css');
+@import url('./__circle-bar/container__circle-bar.css');
+@import url('./__text/container__text.css');
+@import url('./__checklist/container__checklist.css');
+@import url('./__checklist-text/container__checklist-text.css');
+@import url('./__status/container__status.css');
+@import url('./__next-action/container__next-action.css');
+@import url('./__button/container__button.css');
+
+.container {
+    position: relative;
+    width: 743px;
+    height: 91px;
+    background-color: #3579F5;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    padding-left: 22px;
+}
